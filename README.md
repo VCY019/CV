@@ -10,6 +10,6 @@ Below is a brief description of __Raw2SFT__:
 
 # Writing Sample
 
-Please refer to [Writing_Sample](https://github.com/VCY019/Raw2SFT/Writing_Sample.pdf)
+Please refer to [Writing_Sample](Writing_Sample.pdf)
 
 I only write two parts: ___line 593-597 (IFD)___ and ___Appendix A.5 Case Study___.
